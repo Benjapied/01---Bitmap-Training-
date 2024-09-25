@@ -1,0 +1,5 @@
+﻿  WindowsProject1.cpp
+C:\Users\benar\source\repos\WindowsProject1\WindowsProject1\Calculator.h(25,3): warning C4091: 'static ' : ignoré à gauche de 'Calculator::Inputs' quand aucune variable n'est déclarée
+C:\Users\benar\source\repos\WindowsProject1\WindowsProject1\Calculator.h(27,7): warning C4215: extension non standard utilisée : long float
+C:\Users\benar\source\repos\WindowsProject1\WindowsProject1\Calculator.h(28,7): warning C4215: extension non standard utilisée : long float
+  WindowsProject1.vcxproj -> C:\Users\benar\source\repos\WindowsProject1\x64\Debug\WindowsProject1.exe
